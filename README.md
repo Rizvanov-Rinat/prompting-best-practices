@@ -2,6 +2,12 @@
 
 Personal notes on effective prompting for **image and video generation**.  
 
+## Basics of composing
+- [Camera Movements](./basics/camera_movements.md)
+- [Field of View](./basics/field_of_view.md)
+- [Light](./basics/light.md)
+- [Styles](./basics/styles.md)
+
 ## Structure
 - [Midjourney](./midjourney/README.md) → notes and best practices for MidJourney.  
 - [Veo 3](./veo3/README.md) → notes and best practices for Veo3.  
